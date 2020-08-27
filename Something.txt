@@ -1,1 +1,3 @@
 abcdefgh
+Git workshop
+Sample text
